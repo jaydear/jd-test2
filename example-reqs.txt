@@ -1,0 +1,14 @@
+REQ-ID:
+Description:
+Type:
+Rationale:
+Originator:
+Comments: [M814-ModuleChair] Copy this template below to add new requirements.
+
+
+REQ-ID: EXAMPLE: 001
+Description: EXAMPLE DESCRIPTION: some descriptive text here
+Type: FUNCTIONAL / NON FUNCTIONAL
+Rationale: EXAMPLE RATIONALE: why do we need this capability?
+Originator: EXAMPLE ORIGINATOR: Edna Everage
+Comments: [Jay Dear EXAMPLE] 
