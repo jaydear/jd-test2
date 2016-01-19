@@ -12,3 +12,5 @@ Type: FUNCTIONAL / NON FUNCTIONAL
 Rationale: EXAMPLE RATIONALE: why do we need this capability?
 Originator: EXAMPLE ORIGINATOR: Edna Everage
 Comments: [Jay Dear EXAMPLE] 
+
+JD additions - test
