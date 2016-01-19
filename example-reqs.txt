@@ -13,4 +13,4 @@ Rationale: EXAMPLE RATIONALE: why do we need this capability?
 Originator: EXAMPLE ORIGINATOR: Edna Everage
 Comments: [Jay Dear EXAMPLE] 
 
-JD additions - test
+JD Changes - removed and added
